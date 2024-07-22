@@ -657,7 +657,8 @@ Blocks.defaultOptions = {
     grid: {
         spacing: 40,
         length: 2,
-        colour: '#ddd'
+        colour: '#ddd',
+        snap: true
     },
     comments: true,
     collapse: false,
